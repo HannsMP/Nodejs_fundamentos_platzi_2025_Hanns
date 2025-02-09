@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_fundamentos_platzi_2025_hanns",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pm2 start index.js",
+    "mon": "nodemon index.js --delay 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
