@@ -11,5 +11,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "gulp-server-livereload": "^1.9.2",
+    "puppeteer": "^24.2.0"
+  }
 }
